@@ -1,6 +1,6 @@
 package example
 
-import com.vanced.manager.origin.core.mvi.*
+import com.vanced.manager.core.mvi.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.channels.awaitClose

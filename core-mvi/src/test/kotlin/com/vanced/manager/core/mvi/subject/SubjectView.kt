@@ -1,6 +1,6 @@
-package com.vanced.manager.origin.core.mvi.subject
+package com.vanced.manager.core.mvi.subject
 
-import com.vanced.manager.origin.core.mvi.MviRenderView
+import com.vanced.manager.core.mvi.MviRenderView
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow

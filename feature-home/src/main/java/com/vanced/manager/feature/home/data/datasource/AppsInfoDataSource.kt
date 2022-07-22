@@ -1,7 +1,7 @@
-package com.vanced.manager.origin.feature.home.data.datasource
+package com.vanced.manager.feature.home.data.datasource
 
-import com.vanced.manager.origin.feature.home.data.api.AppsApi
-import com.vanced.manager.origin.feature.home.data.dto.AppInfoDto
+import com.vanced.manager.feature.home.data.api.AppsApi
+import com.vanced.manager.feature.home.data.dto.AppInfoDto
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

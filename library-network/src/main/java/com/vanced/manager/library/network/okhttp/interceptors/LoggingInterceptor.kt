@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.library.network.okhttp.interceptors
+package com.vanced.manager.library.network.okhttp.interceptors
 
 import okhttp3.Interceptor
 import okhttp3.logging.HttpLoggingInterceptor

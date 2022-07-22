@@ -1,3 +1,3 @@
-package com.vanced.manager.origin.feature.home.ui.uistate
+package com.vanced.manager.feature.home.ui.uistate
 
 sealed class UiState

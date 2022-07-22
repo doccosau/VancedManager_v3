@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.feature.home.domain.entity
+package com.vanced.manager.feature.home.domain.entity
 
 enum class AppState {
     INSTALL,

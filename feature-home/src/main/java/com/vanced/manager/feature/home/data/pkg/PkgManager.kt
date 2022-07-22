@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.feature.home.data.pkg
+package com.vanced.manager.feature.home.data.pkg
 
 import android.content.pm.PackageManager
 import android.os.Build

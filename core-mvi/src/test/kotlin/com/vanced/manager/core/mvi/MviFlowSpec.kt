@@ -1,6 +1,6 @@
-package com.vanced.manager.origin.core.mvi
+package com.vanced.manager.core.mvi
 
-import com.vanced.manager.origin.core.mvi.subject.*
+import com.vanced.manager.core.mvi.subject.*
 import io.kotest.core.spec.style.ShouldSpec
 import io.kotest.matchers.shouldBe
 import kotlinx.coroutines.ExperimentalCoroutinesApi

@@ -1,6 +1,6 @@
-package com.vanced.manager.origin.feature.home.data.api
+package com.vanced.manager.feature.home.data.api
 
-import com.vanced.manager.origin.feature.home.data.dto.AppInfoDto
+import com.vanced.manager.feature.home.data.dto.AppInfoDto
 import okhttp3.ResponseBody
 import retrofit2.http.GET
 import retrofit2.http.Url

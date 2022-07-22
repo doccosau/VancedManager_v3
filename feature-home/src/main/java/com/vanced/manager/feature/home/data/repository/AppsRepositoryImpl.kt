@@ -1,12 +1,12 @@
-package com.vanced.manager.origin.feature.home.data.repository
+package com.vanced.manager.feature.home.data.repository
 
-import com.vanced.manager.origin.feature.home.data.datasource.AppIconDataSource
-import com.vanced.manager.origin.feature.home.data.datasource.AppsInfoDataSource
-import com.vanced.manager.origin.feature.home.data.datasource.PkgInformationDataSource
-import com.vanced.manager.origin.feature.home.data.dto.AppInfoDto
-import com.vanced.manager.origin.feature.home.domain.entity.AppInfo
-import com.vanced.manager.origin.feature.home.domain.entity.AppState
-import com.vanced.manager.origin.feature.home.domain.repository.AppsRepository
+import com.vanced.manager.feature.home.data.datasource.AppIconDataSource
+import com.vanced.manager.feature.home.data.datasource.AppsInfoDataSource
+import com.vanced.manager.feature.home.data.datasource.PkgInformationDataSource
+import com.vanced.manager.feature.home.data.dto.AppInfoDto
+import com.vanced.manager.feature.home.domain.entity.AppInfo
+import com.vanced.manager.feature.home.domain.entity.AppState
+import com.vanced.manager.feature.home.domain.repository.AppsRepository
 
 
 class AppsRepositoryImpl(

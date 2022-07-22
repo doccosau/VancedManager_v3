@@ -4,7 +4,7 @@
     "iconUrl": "https://github.com/YTVanced/VancedManager/icon.png",
     "versionName": "2.0.1",
     "versionCode": 201,
-    "pkgName": "com.vanced.manager.origin",
+    "pkgName": "com.vanced.manager",
     "downloadUrl": "https://github.com/YTVanced/VancedManager/releases/latest/download",
     "changelog": "- Fixed issues with Android 5 and 6\n- Fixed various crashes\n- Improved performance"
   },

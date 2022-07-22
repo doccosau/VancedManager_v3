@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.ui.ext
+package com.vanced.manager.core.ui.ext
 
 import android.util.Log
 import androidx.fragment.app.DialogFragment

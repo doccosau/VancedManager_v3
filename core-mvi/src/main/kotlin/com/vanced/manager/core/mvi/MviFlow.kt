@@ -1,4 +1,4 @@
-package com.vanced.manager.origin.core.mvi
+package com.vanced.manager.core.mvi
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.*
