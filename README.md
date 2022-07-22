@@ -1,4 +1,4 @@
-# Vanced Manager
+# Vanced Manager Origin
 <div>
 
 [![Github All Releases](https://img.shields.io/github/downloads/inotia00/VancedManager_v2/total.svg?style=for-the-badge)](https://github.com/inotia00/VancedManager_v2/releases/latest) [![Github All Releases](https://img.shields.io/github/release/inotia00/VancedManager_v2.svg?style=for-the-badge)](https://github.com/inotia00/VancedManager_v2/releases/latest)
