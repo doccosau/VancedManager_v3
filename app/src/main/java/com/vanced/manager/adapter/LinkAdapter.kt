@@ -52,7 +52,7 @@ class LinkAdapter(
     override fun getItemCount(): Int = links.size
 
     companion object {
-        const val GITHUB = "https://github.com/inotia00/VancedManager"
+        const val GITHUB = "https://github.com/inotia00/VancedManager_v2"
         const val TELEGRAM = "https://t.me/vanced_mod_archive"
     }
 
